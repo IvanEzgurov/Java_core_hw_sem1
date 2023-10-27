@@ -2,7 +2,9 @@ package org.example;
 
 import java.util.Arrays;
 
+
 import static org.example.Task2.createArray;
+
 
 public class Task3 {
     //Написать функцию, возвращающую истину, если
